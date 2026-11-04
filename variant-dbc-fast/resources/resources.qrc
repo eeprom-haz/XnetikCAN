@@ -1,0 +1,7 @@
+<!DOCTYPE RCC>
+<RCC version="1.0">
+  <qresource prefix="/">
+    <file>style/fluent-light.qss</file>
+    <file>icons/logo.png</file>
+  </qresource>
+</RCC>
